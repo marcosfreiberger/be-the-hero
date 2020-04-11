@@ -7,5 +7,7 @@ Criando uma aplicação do zero, o Backend (criando api para fazer as requisiç�
 Principais ferramentas,
 
 Backend: NodeJS, SqLite, Jest
+
 FrontEnd: ReactJS, Axios, Hooks
+
 Mobile: React Native, Expo
